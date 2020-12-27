@@ -17,6 +17,14 @@ function App() {
         >
           Learn React
         </a>
+        <a
+          className="App-link"
+          href="https://reactjs.org"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          I am changed !
+        </a>
       </header>
     </div>
   );
